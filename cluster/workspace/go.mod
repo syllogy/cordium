@@ -17,7 +17,7 @@ require (
 	go.uber.org/zap v1.28.0
 	golang.zx2c4.com/wireguard v0.0.0-20250521234502-f333402bd9cb
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20241231184526-a9ab2273dd10
-	google.golang.org/grpc v1.82.0
+	google.golang.org/grpc v1.82.1
 )
 
 require github.com/octelium/cordium/pkg v0.0.0-00010101000000-000000000000
